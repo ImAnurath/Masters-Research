@@ -1,0 +1,6 @@
+train: data-prep-1/images/train
+val: data-prep-1/images/val
+test: data-prep-1/images/test
+
+nc: 1
+names: ['bee']
